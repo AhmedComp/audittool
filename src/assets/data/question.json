@@ -1,0 +1,2682 @@
+[
+  {
+    "id": 1,
+    "question": "Is door to Computer Room protected by an electronic 'audit trail' lock",
+    "description": "Must be protected by Electronic Key-Lock",
+    "maxPoint": 5,
+    "answer": [ "0","1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+  {
+    "id": 2,
+    "question": "Is the room always secured with Camera recording  all entrance to the room CRITICAL ",
+    "description": "CCTV system",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 3,
+    "question": "If no electronic lock / audit trail, is there a manual log recording all Main Dorr access to Computer Room",
+    "description": "You must keep Log-Book for the room entry",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 4,
+    "question": "All Servers Racks doors are secured & Locked",
+    "description": "All Servers Racks doors are secured & Locked",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 5,
+    "question": "All Cabling Cabinets in Computer Room are secured with Locks",
+    "description": "All Cabling Cabinets in Computer Room are secured with Locks",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 6,
+    "question": "All equipment in computer room is supported by UPS power over clean lines",
+    "description": "All equipment in computer room is supported by UPS power over clean lines",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 7,
+    "question": "There are at least two telephones lines in the Computer Room available for emergency caals / support",
+    "description": "There are at least two telephones lines in the Computer Room available for emergency caals / support",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 8,
+    "question": "Power and data cables are installed in separate trunking",
+    "description": "Power and data cables are installed in separate trunking",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 9,
+    "question": "Power to the Computer Room can be shut off manually",
+    "description": "Power to the Computer Room can be shut off manually",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 10,
+    "question": "Is there Emergency lightning (or torch / flashlight) in the computer room",
+    "description": "Is there Emergency lightning (or torch / flashlight) in the computer room",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 11,
+    "question": "The computer room is clear of paper stores and inflammable materials",
+    "description": "The computer room is clear of paper stores and inflammable materials",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 12,
+    "question": "The computer room is constructed with fire resistant Rated doors and glass (windows) for 2 hours minimum",
+    "description": "The computer room is constructed with fire resistant Rated doors and glass (windows) for 2 hours minimum",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 13,
+    "question": "Environmental control systems are in place, dedecting fire, excessive heat, humidity and water flow -- SOX  CRITICAL (R07/C09)",
+    "description": "Environmental control systems are in place, dedecting fire, excessive heat, humidity and water flow -- SOX  CRITICAL (R07/C09)",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 14,
+    "question": "Halon gas is NOT used as the automatic fire suppression system",
+    "description": "Halon gas is NOT used as the automatic fire suppression system",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 15,
+    "question": "Approved Hand held Fire Extinguisher is available in close proximity to  Computer Room ",
+    "description": "Approved Hand held Fire Extinguisher is available in close proximity to  Computer Room ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 16,
+    "question": "Above Fire Extinguisher should have 'current' inspection validity",
+    "description": "Above Fire Extinguisher should have 'current' inspection validity",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 17,
+    "question": "Clear instructions for actions to take in event of fire are clearly displayed on four sides of the room and back of the main door",
+    "description": "Clear instructions for actions to take in event of fire are clearly displayed on four sides of the room and back of the main door",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 18,
+    "question": "All Cabinets, not just those in Computer Room, are earthed",
+    "description": "All Cabinets, not just those in Computer Room, are earthed",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 19,
+    "question": "Is the room at risk due to presence of unprotected water pipes",
+    "description": "Is the room at risk due to presence of unprotected water pipes",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 20,
+    "question": "If water pipes DO pass through, is there method to drain water away from computer room?",
+    "description": "If water pipes DO pass through, is there method to drain water away from computer room?",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 21,
+    "question": "Does your Computer Room have Raised Floor - 25cm Height?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 22,
+    "question": "Water cannot come into Computer Room from raised floor",
+    "description": "Water cannot come into Computer Room from raised floor",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 23,
+    "question": "(Smoke detectors) are fitted ",
+    "description": "(Smoke detectors) are fitted ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 24,
+    "question": "Smoke detector are connected to the central fire alarm system",
+    "description": "Smoke detector are connected to the central fire alarm system",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 25,
+    "question": "Smoke detectors have been tested in last 12 months",
+    "description": "Smoke detectors have been tested in last 12 months",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 26,
+    "question": "Does the air conditioning keep Computer Room temperature within accepted range (min 18c max 23c)",
+    "description": "Does the air conditioning keep Computer Room temperature within accepted range (min 18c max 23c)",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 27,
+    "question": "Is the computer room serviced by two air con systems (to protect against failure of one)",
+    "description": "Is the computer room serviced by two air con systems (to protect against failure of one)",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 28,
+    "question": "Are the air conditioning units connected to the generator?",
+    "description": "Are the air conditioning units connected to the generator?",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 29,
+    "question": "Is the UPS supporting the computer Room connected to the hotel generator?",
+    "description": "Is the UPS supporting the computer Room connected to the hotel generator?",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 30,
+    "question": "UPS distribution panel is in  good shape and all keys are  clearly labeled ",
+    "description": "UPS distribution panel is in  good shape and all keys are  clearly labeled ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 31,
+    "question": "Regular check the quality of the circuit breakers on UPS",
+    "description": "Regular check the quality of the circuit breakers on UPS",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 32,
+    "question": "UPS Power sockets -within the whole organization - are used for Computer Devices ONLY",
+    "description": "UPS Power sockets -within the whole organization - are used for Computer Devices ONLY",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 33,
+    "question": "All UPS sockets must be of a different colour (red preferred) and different style compared to normal sockets, and clearly labelled and used for IT devices only",
+    "description": "All UPS sockets must be of a different colour (red preferred) and different style compared to normal sockets, and clearly labelled and used for IT devices only",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 34,
+    "question": "Is the floor of the room anti-static floor",
+    "description": "Is the floor of the room anti-static floor",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 35,
+    "question": "Cables either power or data inside the racks should be clearly labeled . Cables plugged to power strips need to be labeled to see where they go",
+    "description": "Cables either power or data inside the racks should be clearly labeled . Cables plugged to power strips need to be labeled to see where they go",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 36,
+    "question": "Data cables are clearly labeled",
+    "description": "Data cables are clearly labeled",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 37,
+    "question": "Access to the Computer Room must be direct from corridor and NOT through any office",
+    "description": "Access to the Computer Room must be direct from corridor and NOT through any office",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 38,
+    "question": "There should be no signs, directions or public facing windows indicating or revealing the location of the Computer Room",
+    "description": "There should be no signs, directions or public facing windows indicating or revealing the location of the Computer Room",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 39,
+    "question": "The computer room is not used as an IT Manager’s office",
+    "description": "The computer room is not used as an IT Manager’s office",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 40,
+    "question": "The room must not be located close to any place that is subject to increased a risk of physical damage for example, fire, flood or excessive heat",
+    "description": "The room must not be located close to any place that is subject to increased a risk of physical damage for example, fire, flood or excessive heat",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 41,
+    "question": "Is the 3rd party vendors rack(s) well organised and all its content are clearly labeled",
+    "description": "Is the 3rd party vendors rack(s) well organised and all its content are clearly labeled",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 42,
+    "question": "Were fan-coil systems are installed, they should not be located inside the Computer Room, but should service the room via air ducts",
+    "description": "Were fan-coil systems are installed, they should not be located inside the Computer Room, but should service the room via air ducts",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 1
+  },
+{
+    "id": 201,
+    "question": "Is your Network designed with Star Topology? READ INFO ICON PLS",
+    "description": "If Yes, please answer NEXT question with (N/A)",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 202,
+    "question": "Is your Network designed with Ring (Treble-play) Topology? READ INFO ICON PLS",
+    "description": "If Yes, please answer PREVIOUS question with (N/A)",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 203,
+    "question": "Do you use Fiber-Optic cables as main Riser in case of Star Topology design?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 204,
+    "question": "Do you have spare Cores on all your Fiber-Optic Risers for future Expansions?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 205,
+    "question": "Does your Fiber Optics Terminators Meets all of MIL-DTL-38999 / MIL-C-38999 Series III specifications & Standards?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 206,
+    "question": "Do you use ANSI/TIA-606-B Cabling Standard labeling scheme with your labeling?",
+    "description": "This scheme identifies the ISO/IEC TR14763-2-1 international identification scheme.",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 207,
+    "question": "Do you use standard Wires Color-Coding?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 208,
+    "question": "Does your Network Paths use Galvanized Trucking?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 209,
+    "question": "Is all Cables used for your network are LSZH approved?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 210,
+    "question": "All Network Cabinets are in secured Locations & Locked?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 211,
+    "question": "All Network Cabinets have ventilation fans?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 212,
+    "question": "All Network Cabinets have Redundant Power supply?",
+    "description": "All Network Cabinets have Redundant Power supply?",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 213,
+    "question": "All Network Cabinets are elevated above ground with minimum 30cm?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 214,
+    "question": "All Network Cabinets are grounded (Earthed) through Natural Line?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 215,
+    "question": "Cables inside all Network cabinets are grouped into Cables-organizers?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 216,
+    "question": "All Network Cabinets - MDF or IDF's - have a single line diagram drawing stick on its doors showing the connectivity of each cabinet From / TO?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 217,
+    "question": "All your Active Switches support 1024 (GIGA) Bandwidth?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 218,
+    "question": "All your Patch Panels support 1024 (GIGA) Bandwidth?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 219,
+    "question": "Do you use Different Colors Patch-cords (preferred Blue)?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 220,
+    "question": "Do you perform a Network Fluke Scan or using any other APPROVED Tester twice a year minimum?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 221,
+    "question": "Do you use Network Nodes with Shutters?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 222,
+    "question": "All you Network Nodes are Labled?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 223,
+    "question": "Does all your Patch Panels have MINIMUM 10% free connections for Network Expansion?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 224,
+    "question": "Does all your Active Switches have MINIMUM 10% free connections for Network Expansion?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 2
+  },
+{
+    "id": 301,
+    "question": "ISM maintains a well organized register / file of all warranty and maintenance agreements. Details should include start and end date, annual / monthly cost, expiry notice, renewal terms",
+    "description": "Warranty Log for follow-up",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 3
+  },
+{
+    "id": 302,
+    "question": "No desktops or laptops older than 3 years are covered by maintenance agreement",
+    "description": "Older than 3 years are due to be replaced",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 3
+  },
+{
+    "id": 303,
+    "question": "All servers out of life cycle should be covered by maintenance agreement",
+    "description": "Ensure full support on Emergency",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 3
+  },
+{
+    "id": 304,
+    "question": "Do you keep any sort of Document covering all existing Hardware Profile - Brands, Models, Configurations, warranty, Maintenance Contract, etc. for all your hardware items",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 3
+  },
+{
+    "id": 305,
+    "question": "A call history is maintained for reporting problems to external support contractors (inc.HSS). Details should include date, time, record of person spoken to, agreed actions and follow up steps, final status ( Open/Closed)",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 3
+  },
+{
+    "id": 306,
+    "question": "Keeping a LOG for all Internal support requests (Users Requests) marking actions taking and final status of the support request",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 3
+  },
+{
+    "id": 307,
+    "question": "Generate monthly report to all operation departments showing analysis regarding all support requests - Internally or Externally supported - and its final status",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 3
+  },
+{
+    "id": 308,
+    "question": "Are the UPS batteries correctly tagged to show date of last service / test / replacement?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 3
+  },
+{
+    "id": 309,
+    "question": "Is there a valid maintenance contract for all hotel UPSs, if not a service report showing tests, services within the past 12 month.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 3
+  },
+{
+    "id": 310,
+    "question": "There is a power-support capacity for additional machines on UPS",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 3
+  },
+{
+    "id": 401,
+    "question": "IT management reviews all administrative accounts annually - CRITICAL SOX (R05/C13)",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": [ "0","1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+  {
+    "id": 402,
+    "question": "IT management permits a limited set of administrative accounts to authorized administrative personnel to expedite administration of the Netware environment. Check if unauthorized users have SUPERVISOR/ADMIN equivalence should never be used except for emergency support CRITICAL SOX (R05/C14)",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 403,
+    "question": "Access to critical systems and applications require unique user ID's and passwords. CRITICAL SOX (R05/C10)",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 404,
+    "question": "User access rights for all critical systems and applications are reviewed for appropriateness at least once a year by the Management and the  Director of Finance.  CRITICAL SOX (R05/C12)",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 405,
+    "question": "Are keys for Cabling Cabinets are kept away from Cabinets",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 406,
+    "question": "All IT devices ( except laser printers and photocopiers ) are on UPS power",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 407,
+    "question": "Confirm (with HR) that users are required to sign forms indicating The Organization's PC usage policy (e.g. email, Internet, data security etc.)",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 408,
+    "question": "Do you have Enterprise Anti-Virus installed on all Servers",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 409,
+    "question": "Is Anti-Virus EM Library installed and updating? Check message log for errors",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 410,
+    "question": "Does your Enterprise Anti-Virus push automatic Batch updates to all users workstations & PC's?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 411,
+    "question": "Do you have Microsoft WSUS Batch Management or any Batch Mgmt App installed and properly updating?",
+    "description": "Ensures central control of all App's installation to user workstations / PC's",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 412,
+    "question": "Chek & Review that all PCs which is  EM / WSUS not installed to ensure that manual updates are carried out",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 413,
+    "question": "Default settings for passwords are at least 8 characters long",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 414,
+    "question": "Default settings for password change is no less than once every 45 days. ",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 415,
+    "question": "Confirm that all master passwords current (working) are kept in sealed envelope in secured location, with GM and FC signed and dated",
+    "description": "For Emergency usage whan IT team are not available",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 416,
+    "question": "Above Envelope is replaced Quarterly",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 417,
+    "question": "Confirm that both FC and GM know how to access this envelope in an emergency",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 418,
+    "question": "Default template / document is configured for adding New User in coordination with HR Dept.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 419,
+    "question": "Do you have standard User groups rights? Special users with special rights are not allowed",
+    "description": "All users access rights should be inhereted by adding the users to the relative User Group",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 420,
+    "question": "Authorization is removed upon receipt of a termination notice from HR, on an as needed basis.  All access rights are removed at that time, appropriate passwords are changed, and where necessary accounts removed.  In all cases, all user access should be removed immediately after  a user's termination. CRITICAL SOX (R05/C09)",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 421,
+    "question": "New user requests and modifications of user access to critical systems and applications are performed by submitting an approved access request form to the security administrator.  Access requests require approval from the user's appropriate manager.   CRITICAL SOX (R05/C08)",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 422,
+    "question": "Security incidents are documented and reported to the GM,  FC and Security Manager, by the  IT manager responsible for the Organization.  Critical security incidents are immediately reported to appropriate management.   CRITICAL SOX (R09/C21)",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 423,
+    "question": "Vendors Remote access connectivity MUST be recorded in a specific LOG. CRITICAL SOX",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 424,
+    "question": "3rd party vendor  remote access must be controlled and regulated per the vendor remote access standards using Positive Networks VPN solution.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 425,
+    "question": "Review above log file and compare to support incident log",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 426,
+    "question": "Use of MS Access databases is fully documented ",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 427,
+    "question": "All software and applications developed internally by or on behalf of the Company must adhere to the compliance standards applicable to the Company (e.g., PCI DSS, Sarbanes-Oxley). The software and applications must have documented specifications, access control systems, and contingency plans.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 428,
+    "question": "All UPS sockets must be of a different color (red preferred) and different style compared to normal sockets, and clearly labelled",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 429,
+    "question": "Do you have a Fire Resistant Safe for keeping Media?",
+    "description": "This Safe will be used to secure Backup Tapes, Original CD's, Licenses, Original Documentation, etc.",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 430,
+    "question": "Is the IT data safe placed away from the computer room area.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 431,
+    "question": "Are USB ports disables in all computers",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 432,
+    "question": "3rd party vendor  remote access must be controlled and regulated per the vendor remote access standards using Positive Networks VPN solution.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 433,
+    "question": "Is Computrace installed on all laptops or any other Device Tracing applications?",
+    "description": "To be able to trace the Laptop's in case of stolen or Lost",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 434,
+    "question": "Is SafeGuard Disk Encryption installed on every laptop or any other Encryption Application",
+    "description": "Enables the organization to Remotely delete & iliminate all Data on the Laptop incase of stolen or lost Laptop",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 435,
+    "question": "Do you have a Folder for each operation department on your server containing the needed operational forms & accessed as per User Group's rights?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 4
+  },
+{
+    "id": 501,
+    "question": "Have you Installed or Subscribed to any Vulnerability Scanning tool for your organization?",
+    "description": "Famous Cyberattacks occurred during the past 3 years effected many global sites and caused big crashes worldwide.",
+    "maxPoint": 5,
+    "answer": [ "0","1", "2", "3", "4", "5", "N/A" ],
+    "section": 5
+  },
+  {
+    "id": 502,
+    "question": "Have you Installed or Subscribed to any Vulnerability Scanning tool for your organization?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 5
+  },
+{
+    "id": 503,
+    "question": "Do you have a remote slave Device/Space component that can be used to RUN scans locally within a secured zone that is segmented from the main Network?",
+    "description": "In Highly distributed Networks, Above-Property on-line scanning might not complete and fails to go through Firewalls, Load Balancers, Web Application Firewalls and Layer3 switches security.",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 5
+  },
+{
+    "id": 504,
+    "question": "Does your Vulnerability Scanner performs 'Cross-Site Scripting (XSS)', 'SQL Injection' & 'Buffer Flow' scanning?",
+    "description": "These 3 items normally generated while software applications Run which pose significant vulnerability risk",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 5
+  },
+{
+    "id": 505,
+    "question": "Your Vulnerability Scanner includes these parts into its reporting system: 'Assets/Devices discovery', Software Inventory' , 'Functional Test' and Application vulnerabilities?",
+    "description": "All these parts should be part of the standard scanning, not to be paid as extra reporting",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 5
+  },
+{
+    "id": 506,
+    "question": "Your Vulnerability Scanner must be connected with the 'National Vulnerability Database (NVD) - part of US-Based American Standardization Association institute of Information & Communication Technology (NIST)'?",
+    "description": "Up to 50 new Vulnerabilities are reported every day, it's vital that your chosen vulnerability management solution is fully-updated with the new risks prior to start",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 5
+  },
+{
+    "id": 507,
+    "question": "Does your Vulnerability Scanner reports the discovered vulnerabilities in CVE (Common Vulnerability Enumeration) refrence?",
+    "description": "The CVE comprising the year of origin along with a unique ID number for the Vulnerability ensuring avoiding the mix between fix batches for each vulnerability.",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 5
+  },
+{
+    "id": 508,
+    "question": "The Vendor who implement/support your scanner should be listed in the 'Center for Internet Security website (CIS)' as approved certified vendor.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 5
+  },
+{
+    "id": 509,
+    "question": "Do you perform weekly Vulnerability scan to your servers? (minimum)",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 5
+  },
+{
+    "id": 510,
+    "question": "Do you perform Bi-Weekly Vulnerability scan to your complete Network?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 5
+  },
+{
+    "id": 511,
+    "question": "When receiving the Scan report, do you check with (NVD) for the discovered CVE's remedy patch or 'work-arround' solution?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 5
+  },
+{
+    "id": 512,
+    "question": "Your Scanning solution must have Built-in Ticketing system for tracking the remediation work & mark open vulnerabilities for follow up.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 5
+  },
+{
+    "id": 513,
+    "question": "The Scanning solution must offer a range of Pre-Built scanning configurations to be able to select out of it prior to starting the test.",
+    "description": "This will help to get the balance Right between the need for regular and throght testing, the amount of time needed to complete the scan, and minimizing any chance of degrading the Service Delivery",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 5
+  },
+{
+    "id": 514,
+    "question": "Do you have the ability to schedule your scanning outside of prime/busy business hours?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 5
+  },
+{
+    "id": 515,
+    "question": "Does your vulnerability scanning vendor has a solution for change controland that this is able to separate normal changes from abnormal or unexpected changes?",
+    "description": "For Emergency usage whan IT team are not available",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 5
+  },
+{
+    "id": 601,
+    "question": "Do you have a written Network Security Policy that lists the rights and responsibilities of all staff, employees, and consultants?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": [ "0","1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 602,
+    "question": "Does your HR department ensures that all new employees signs to the IT & Network security documentation?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 603,
+    "question": "Do your Organization perform Security Training for all users regarding the use of the Network Environment and sharing data outside the company as well as allowing anybody to access their systems?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 604,
+    "question": "Do you have Data & Information Security Policy document & training for all your Organization employees?",
+    "description": "Make sure users have been trained regarding the sharing of information by email and the Internet",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 605,
+    "question": "Do you have a Written policy regarding Phishing email messages or other communication designed to lure a victim, and how the employees should do with such messages and to whom they should forward it?",
+    "description": "These messages are made to look as though it comes from a trusted sender. If it fools the victim, he or she is coaxed into providing confidential information--often on a scam website. Sometimes malware is also downloaded onto the target's computer.",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 606,
+    "question": "All 3rd party IT related vendors and contractors need to sign a security agreement while they are working in your environment",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 607,
+    "question": "Have contingency plans in place for if and when there is a data breach or security breach?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 608,
+    "question": "Do you have a Written password policy?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 609,
+    "question": "Do your organization perform 'Password Training' for all authorized users to ensure they understand the potential risks of using passwords in an insecure way",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 610,
+    "question": "Do you Inspect users Workstations ensuring NO written passwords in the user or server areas",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 611,
+    "question": "Does your HR Dept. ensure users signature for the  'Password Requirements'?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 612,
+    "question": "Do you perform regular 'Hardening of servers' on the internal network, removing unnecessary services and applications",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 613,
+    "question": "Do you ensure keeping unnecessary files off of servers?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 614,
+    "question": "Do you have 'Official document' received from HR for creating new users, along with users Job function group?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 615,
+    "question": "Do you track Remote administration policy - Disable Remote Administration where it isn’t needed?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 616,
+    "question": "Do you have a 'Remote Access Security policy' and do you follow its implementation?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 617,
+    "question": "It is highly recommended to Rename Administrator Accounts",
+    "description": "Ensuring that no one can predict the Administrator password using his regular Password Access to other WKS.",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 618,
+    "question": "You have to regularly auditing of Administrator login attempts",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 619,
+    "question": "Do you Create extra-strong passwords for Administrator accounts?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 620,
+    "question": "You have to ensure that Passwords for server administration accounts should be different than workstation user accounts for the same users",
+    "description": "Ensuring that no one can predict the Administrator password using his regular Password Access to other WKS.",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 621,
+    "question": "Did you Disable Guest Account?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 622,
+    "question": "You MUST Restrict Access to the Everyone Group",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 623,
+    "question": "Did you Create appropriate user and group accounts and checked & approved by the DOF?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 624,
+    "question": "Did you Configure audit LOG to track unauthorized access of files/systems/folders/accounts",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 625,
+    "question": "Do you use any application to centrally PUSH Service Packs, Patch updates, Vulnerability Patches, etc. to user workstations (i.e. MS-SCCM)?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 626,
+    "question": "Do you Configure patch management or scheduled download and application of the operating system and security patches?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 627,
+    "question": "Do you use Network Segmentation (i.e. VLAN's) to secure your CRITICALapplications?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 628,
+    "question": "Do you use any End-point detection and remediation (EDR) tool/app (i.e. MS Defender, Falcon Crowdstrike, Cisco End-Point Solution)?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 629,
+    "question": "Can yor End-point tool detect, alert, track, analyze, and remediate advanced malware that may at first appear clean or that evades initial defenses and is later identified as malicious?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 630,
+    "question": "Do you have 'Extended Detection and Response' Tool/App. to collects and correlates data across email, endpoints, servers, cloud workloads, and networks",
+    "description": "This is critical for enabling visibility and context into advanced threats. Threats can then be analyzed, prioritized, hunted, and remediated to prevent data loss and security breaches.",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 631,
+    "question": "Have you Implemented any Tools/Apps that can detect Viruses, Worms, Trojan virus, Spyware, Adware, Ransomware, Fileless malware and remidiate it OR - at least - warrn the Network administratos about its existance on the Network?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 632,
+    "question": "Have you Implemented any Tools/Apps that can provide full-stack observability over your Network components (i.e. Cisco AppDynamics, MS - Azure Monitor)?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 633,
+    "question": "Prior to installing Wireless Network, do you have a need & approval to implement it?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 634,
+    "question": "Do you have a written Policy for WLAN usage & Internet access for the users to be aware prior to connectivity?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 635,
+    "question": "Do you Ensure Wireless Network security is configured properly, including the use of wireless security protocols?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 636,
+    "question": "Did you physically secure the hardware such as installation in secured wiring closets or mounting access points in lock boxes.",
+    "description": "This is essential to prevent/illiminate any type of Key-Logger devices to the Access Points, i.e. Key logger'  'keykatcher'  'keyghost.",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 637,
+    "question": "Consider architecting the WLAN is such a way that the wireless network is separated from the LAN through the use of segmentation devices.",
+    "description": "This can provide additional security and a choke point between the WLAN and the Enterprise LAN backbone",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 638,
+    "question": "Do you have a system for configuration management is in place and is used for all changes in Access Point configuration?",
+    "description": "This will enable you to Document, test and record all changes so a history is kept for fault isolation.",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 639,
+    "question": "Do you Periodically audit the AP configuration against the configuration recorded in the configuration management system to detect unauthorized modifications?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 640,
+    "question": "You MUST ensure that all workstations that are to be WLAN clients should be properly secured. Some things to ensure: (Pls READ the HELP/INFO Icon ɨ",
+    "description": "• Proper patch level is maintained - • An Anti-Virus client is installed, running, and regularly updated - • Ensure a personal firewall is installed and active on the wireless connection. - • Ensure appropriate system security settings are in place - • Ensure that the supplicant does not have the setting “Validate server certificate” disabled. If this is disabled you can loose all of the security of the connection as any certificate presented can be trusted.",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 641,
+    "question": "If you are using EAP look to your vendors to comply with RFC3748 which obsoletes RFC2284. RFC3748 calls for binding the inner and outer authentication protocols to help mitigate Man-in-the-middle attacks.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 642,
+    "question": "Change all Pre-Configured SSID's & Passwords on the Access Points before connecting it to your production network",
+    "description": "All Access Points on the market come preconfigured with some form of default settings for the SSID and the administrative passwords. These are well known to the hacking community.",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 643,
+    "question": "You MUST disable any unused management interfaces that are not actively being used to manage the device since it can become an avenue of attack.",
+    "description": "All enterprise class Access Points come with multiple management interfaces, Tthese are well known to the hacking community.",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 644,
+    "question": "Do not use the name of the company, the address, phone number in the SSID. Stick to things that will not give away excess information about whose WLAN the SSID is from.",
+    "description": "Security measures like not broadcasting the SSID are not a foolproof measure, the SSID can still be obtained by an attacker, so keep the SSID something you do not mind them knowing. ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 645,
+    "question": "Your WLAN deployment should have some form of Wireless IDS (WIDS) or IPS (WIPS) solution to ensure the safety of the RF environment.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 646,
+    "question": "Unless there is a compelling business reason to allow wireless stations to communicate directly with one another, enable wireless client isolation.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": [ "0","1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 647,
+    "question": "Enforcement of the mobile device policies needs to be decided on and enforced",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 648,
+    "question": "Ensure that Wireless access points need are secured and on a separate SUBNET Masks",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 649,
+    "question": "Configure audit logs to monitor access to Wireless Network ",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 650,
+    "question": "Did you configure Screen Locks on all computers?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 651,
+    "question": "It's a MUST to Require passwords on all computers, including screen lock recovery",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 652,
+    "question": "Do you Consider using two-factor authentication",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 653,
+    "question": "You must Harden workstations, removing unnecessary applications and programs at least once a month per Department",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 654,
+    "question": "Only specific users are allowed to save to their PC hard disk and disabled for the majority of the users",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 655,
+    "question": "Is your Anti-virus software configured to disable circumnavigating?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 656,
+    "question": "Ensure anti-virus updates are occurring regularly",
+    "description": "T ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 657,
+    "question": "Ensure the operating system and security patches are occurring regularly",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 658,
+    "question": "You MUST ensure Pop-up blockers enabled & properly setup",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 659,
+    "question": "An IT security policy or BYOD policy (Bring Your Own Device) needs to be in place for mobile devices that are used on the network",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 660,
+    "question": "Do you Make sure that firmware upgrades occur regularly?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 661,
+    "question": "Use a firewall and make sure that all public-facing services are on a separate network segment or DMZ (email, FTP, web, for example) for intrusion prevention.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 662,
+    "question": "Do you use Intrusion detection Hardware or Software?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 663,
+    "question": "Do you Make sure that all externally sourced IP addresses are not allowed inside the LAN, but only to the DMZ?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 664,
+    "question": "Do you Configure firewall policies to deny inbound access to unused ports?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 665,
+    "question": "You MUST Review all firewall policies for potential security risks in coordination with your Vulnerability Scanning tool/vendor",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 666,
+    "question": "Do you Implement network address translation (NAT) where possible?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 667,
+    "question": "Do you Use stately packet inspection on the firewall, preventing IP address spoofing and DOS attacks?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 668,
+    "question": "Make sure the router and firewall software is updated regularly",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 669,
+    "question": "You MUST Consider having penetration testing performed for further weakness exposure and/or Network security Assessment by Professional approved auditors services regularly (every Six Month preferred).",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 6
+  },
+{
+    "id": 701,
+    "question": "All your Servers are equipped with Tape Media Drive for Data Backup?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 702,
+    "question": "Do you keep 2 Tapes for each server for yearly Backup?",
+    "description": "You MUST keep minimum 2 years Backup",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 703,
+    "question": "Does your Yearly Backup procedure includes Systems & Data files - everything on the server?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 704,
+    "question": "As per (NIST) Standards, you need to keep the latest year backup outside the property/organization premises",
+    "description": "Preferred a rented Safe in any bank",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 705,
+    "question": "Do you keep 8 Tapes for each server for Weekly Backup?",
+    "description": "You MUST keep previous 2 month Data Backup",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 706,
+    "question": "Does your Weekly Backup procedure includes Applications & Data files?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 707,
+    "question": "Do you keep 10 Tapes for each server for Daily Backup?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 708,
+    "question": "Does your Daily Backup procedure includes only Data files?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 709,
+    "question": "Do you replace the Daily Backup Tapes every morning?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 710,
+    "question": "Do you Check the Backup software LOG on daily basis ensuring the completion of the Backup without Errors? CRITICAL SOX",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 711,
+    "question": "All your Backup tapes are properly labeled (Daily, Weekly, Yearly) with the date of last backup date?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 712,
+    "question": "Do you test your Backup Tapes validity on Monthly basis through restoring the data to an external Hard drive?",
+    "description": "Check the contained data integrity ensuring NO corrupted data",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 713,
+    "question": "Do you have at least 1 Tape Media Drive spare in your IT store in case of any Media Drive damage?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 714,
+    "question": "Does your Backup software allow for scheduling Backup on a specific dates & times?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 715,
+    "question": "As per (NIST) Standards, all your Tapes MUST NOT be older than 24 month in usage",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 716,
+    "question": "Do you keep 'Image' copy for each File Server?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 717,
+    "question": "Do you keep 'Image' copy for the Organization PC standard setup?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 718,
+    "question": "Do you keep 'Image' copy for the Organization Laptop standard setup?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 7
+  },
+{
+    "id": 801,
+    "question": "Do you keep a record for all PC's OEM Licenses",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": [ "0","1", "2", "3", "4", "5", "N/A" ],
+    "section": 8
+  },
+  {
+    "id": 802,
+    "question": "Do you keep a record for all Laptops OEM Licenses",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 8
+  },
+{
+    "id": 803,
+    "question": "Do you keep Record for Servers IOS Licenses",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 8
+  },
+{
+    "id": 804,
+    "question": "Do you keep Record for Servers D-Base Licenses (Oracle, SQL, etc.)",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 8
+  },
+{
+    "id": 805,
+    "question": "Do you keep records for Servers Clustering Licenses?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 8
+  },
+{
+    "id": 806,
+    "question": "Do you keep record for MS Office Licenses",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 8
+  },
+{
+    "id": 807,
+    "question": "Do you keep record for all Anti-Virus Licenses",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 8
+  },
+{
+    "id": 808,
+    "question": "Do you keep records for Report Generators Licenses, i.e. R&R, Crystal, Vision for Excel, Vision for SQL, Etc.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 8
+  },
+{
+    "id": 809,
+    "question": "Do you keep records for Switches Management Application Licenses?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 8
+  },
+{
+    "id": 810,
+    "question": "Do you keep Licenses Profile or Software Profile includes all available licenses, versions, Vendors, Last Upgrade date, etc.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 8
+  },
+{
+    "id": 811,
+    "question": "Do you use the above mentioned Software Profile to check COMPATIBILITY of versions prior to purchasing any new Applications/Licenses?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 8
+  },
+{
+    "id": 812,
+    "question": "Based on each version update, do you update your Software profile LOG/Records?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 8
+  },
+{
+    "id": 813,
+    "question": "Do you Keep 'Service-Pack' Records?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 8
+  },
+{
+    "id": 814,
+    "question": "Do you keep an UPDATED Licenses inventory sheet to be presented to any Authority if requested?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 8
+  },
+{
+    "id": 901,
+    "question": "Do you have a List with all the IT projects Planned/Requested for the whole Year?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": [ "0","1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 902,
+    "question": "Do you have a List with all the IT projects Planned/Requested for the current Quarter?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 903,
+    "question": "Do you have a List with all the Application Rollout/Updates Planned/Requested for the whole Year?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 904,
+    "question": "Do you have a List with all the Application Rollout/Updates for the current Quarter?",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 905,
+    "question": "Does all Stakeholder / team members involved into IT Projects are fully aware of the projects' nature, types & dates",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 906,
+    "question": "Does all Stakeholder / team members involved into IT Projects are fully aware of their role in all the planned projects",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 907,
+    "question": "Did you notify & coordinate with Application Owners for the planned Rollout & updates - Read the INFO Icon ɨ",
+    "description": "Most Rollout & updates to applications have an application owner different from the IT team, i.e. App owner for Finance is the CFO/DOF, App owner for HR&Payroll system is the HR Director, etc.",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 908,
+    "question": "Have you prepared a Task List for each project with the proper responsible person for each task?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 909,
+    "question": "Have you prepared a Task List for each Rollout/Update with the proper responsible person for each task?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 910,
+    "question": "Have you prepared a list for a specific meeting dates for the IT Projects: Initial meeting, Progress, Follow-up's, etc.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 911,
+    "question": "Have you prepared a list for a specific meeting dates for all Rollout/Updates: Initial meeting, Progress, Follow-up's, etc.",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 912,
+    "question": "Did you nominate the focal key person for each IT Project and notified the stakeholders?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 913,
+    "question": "Did you nominate the focal key person for each Rollout/Update and notified the stakeholders?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 914,
+    "question": "Do you have the IT Project 'Deliverables List' prepared for each project",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 915,
+    "question": "Did you plan with App Owners for the Staff Members training after completing the App Rollout/Update - CRITICAL (SOX)",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 916,
+    "question": "In case of 3rd part Vendors are needed during Rollout/Updates, did you notify them with the requested role & dates?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 917,
+    "question": "Do you have all the needed approvals for the IT projects in case of Governmental or Public authorities are involved",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 9
+  },
+{
+    "id": 1001,
+    "question": "It's a MUST to have Contingency plan that contain details on what data and systems are most important, and a step-by-step process of how those systems will be secured, backed up and brought back online. ",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": [ "0","1", "2", "3", "4", "5", "N/A" ],
+    "section": 10
+  },
+{
+    "id": 1002,
+    "question": "Does your Contingency plan includes all RELATED Management members contacts?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 10
+  },
+{
+    "id": 1003,
+    "question": "Does your Contingency plan includes all Support persons/Vendors full contacts, this contact is  categorized by Application and OR Hardware and OR Network?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 10
+  },
+{
+    "id": 1004,
+    "question": "Does your Contingency plan states clearly where to find the system recovery items, i.e. Backup Tapes, Master Password Envelope, Spare Hardware, etc.?",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 10
+  },
+{
+    "id": 1005,
+    "question": "Did you distribute this Contingency plan to all operational departments in your organization?",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 10
+  },
+{
+    "id": 1006,
+    "question": "Did you organize Contingency & PDR test training for each department quarterly minimum?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 10
+  },
+{
+    "id": 1007,
+    "question": "Did you perform 'Planned DRP' test in coordination with Top Management & all Operational Departments Heads - Minimum Twice a year?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 10
+  },
+{
+    "id": 1008,
+    "question": "Do you issue reports with score for all employee to Department Heads & Top Management for these tests?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 10
+  },
+{
+    "id": 1009,
+    "question": "Do you conduct meetings with each department discussing the test resulting score, pointing any employees in need for further training or understanding for their roles during DRP, and explaining the critical fails?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 10
+  },
+{
+    "id": 1010,
+    "question": "Did you perform 'UN-Planned DRP' test in coordination with Top Management & all Operational Departments Heads imitating actual system fails - Once a year?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 10
+  },
+{
+    "id": 1011,
+    "question": "Do you issue reports for the UN-Planned DRP with score for all employee and distribute it to Department Heads & Top Management for these tests?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 10
+  },
+{
+    "id": 1012,
+    "question": "Do you conduct meetings with each department discussing the test resulting score of the UN-Planned DRP, pointing any employees in need for further training or understanding for their roles during DRP, and explaining the critical fails?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 10
+  },
+{
+    "id": 1013,
+    "question": "Does HR department considers the employee's DRP Score as part of the employee periodic evaluation? CRITICAL SOX?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 10
+  },
+{
+    "id": 1014,
+    "question": "Do you keep a LOG with the Planned & UN-Planned DRP Testes including Dates, System down duration, employees scores and Departments Total Score?",
+    "description": " ",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 10
+  },
+{
+    "id": 1101,
+    "question": "Do you keep a form / record for (C01) Change requests require migration request and email",
+    "description": "System and application changes require formal migration requests and preapproval by the appropriate IT Manager & DOF/CFO.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1102,
+    "question": "Do you keep a form / record for (C02) Users review training packages related to changes",
+    "description": "When user systems are changed, the responsible IT personnel (local or centralized) will make Organization users aware and encourage the users to go through the revised training package to familiarize themselves with the new changes.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1103,
+    "question": "Do you keep a form / record for (C03) Critical systems are backed up nightly",
+    "description": "Backups of critical systems are performed nightly.  The Organization has a process to confirm the successful completion of each night's backup.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1104,
+    "question": "Do you keep a form / record for (C04) Backup tapes are retained on a cycle",
+    "description": "Backup tapes are retained based on the local data retention guides and a minimum of 7 days before being scratched for re-use.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1105,
+    "question": "Do you keep a form / record for (C05) Backup tapes are securely stored.",
+    "description": "Backup tapes are stored in a fire-proof safe located in a secure and controlled environment.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1106,
+    "question": "Do you keep a form / record for (C08) Access requests require approved request forms",
+    "description": "New user requests and modifications of user access to critical systems and applications are performed by submitting an approved access request form to the security administrator.  Access requests require approval from the user's appropriate manager.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1107,
+    "question": "Do you keep a form / record for (C09) Authorization is ended upon receipt of a termination notice from HR",
+    "description": "Authorization is removed upon receipt of a termination notice from the department supervisor, on an as needed basis.  All access rights are removed at that time, appropriate passwords are changed, and where necessary accounts removed. ",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1108,
+    "question": "Do you keep a form / record for (C10) Unique User ID's and passwords",
+    "description": "Access to critical systems and applications require unique user ID's and passwords.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1109,
+    "question": "Do you keep a form / record for (C11) Password Security Settings",
+    "description": "Password security settings for critical systems (operating systems) and applications require at least 8 character passwords and 90 day aging.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1110,
+    "question": "Do you keep a form / record for (C12) User access rights are reviewed",
+    "description": "User access rights for all critical systems and applications are reviewed for appropriateness at least once a year by the Organization or cluster Director of Finance.",
+    "maxPoint": 5,
+   "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1111,
+    "question": "Do you keep a form / record for (C13) Centralized administrative accounts are reviewed annually for  Active Directory",
+    "description": "IT management reviews all administrative accounts for Netware and Windows annually.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1112,
+    "question": "Do you keep a form / record for (C14) Admin accounts are distributed to expedite admin of the Netware or Windows environment",
+    "description": "IT management permits a limited set of administrative accounts to authorized administrative personnel to expedite administration of the Network environment.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1113,
+    "question": "Do you keep a form / record for (C15) Access to the network is restricted through network devices",
+    "description": "Where the Organization has a direct connection to the Internet, access to Organization's network is restricted through firewalls, routers, DMZ, and VPN according to the network topology diagram. Guest Network data is not commingled with corporate data.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1114,
+    "question": "Do you keep a form / record for (C16) External card readers restrict access to production floor",
+    "description": "Where the Organization hosts its own financial application, access to the property computer room is restricted through external card readers and is limited to appropriate IT and Organization security personnel.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1115,
+    "question": "Do you keep a form / record for (C17) Approval of access requests to production floor",
+    "description": "Where the Organization hosts its own financial application, authorization of card access to the production floor requires approval from IT management.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1116,
+    "question": "Do you keep a form / record for (C18) Review of access to production floor",
+    "description": "Where the Organization hosts its own financial application, the IT manager responsible for the Organization performs a review of access to the production floor on an annual basis.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1117,
+    "question": "Do you keep a form / record for (C19) Environmental control systems are in place",
+    "description": "Environmental control systems are in place, protecting against fire, excessive heat, humidity and water flow.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1118,
+    "question": "Do you keep a form / record for (C20) Deployment of Virus Protection",
+    "description": "Virus protection technology is employed on Organization computers.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1119,
+    "question": "Do you keep a form / record for (C21) Security incidents are handled by the security administrator",
+    "description": "Security incidents are documented and reported to the GM or the IT manager responsible for the Organization.  Critical security incidents are immediately reported to appropriate management.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1120,
+    "question": "Do you keep a form / record for (C22)  Financial spreadsheets are backed up daily",
+    "description": "All critical financial spreadsheets, including any templates used to upload data from the PMS to the financial system (e.g., Peoplesoft, Navision, Sun, Hyperion, etc.) are filed on network servers that are part of the nightly backups and the related process",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1121,
+    "question": "Do you keep a form / record for (C23) Access requests require approved request forms",
+    "description": "Access to all critical financial spreadsheets is controlled as part of the user administration process for the department, including appropriate manager approval of new access, modified access, and removal of terminated users.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1122,
+    "question": "Do you keep a form / record for (C24) Data integrity is protected within financial spreadsheets",
+    "description": "Formulas and calculation methods used in critical financial spreadsheets are reviewed quarterly by Management to verify the integrity of spreadsheet results.",
+    "maxPoint": 5,
+    "answer": [ "0", "5", "N/A" ],
+    "section": 11
+  },
+{
+    "id": 1201,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": [ "0","1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1202,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1203,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1204,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1205,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1206,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1207,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1208,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1209,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1210,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1211,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1212,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1213,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1214,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1215,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1216,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1217,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1218,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1219,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1220,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1221,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1222,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1223,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1224,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1225,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1226,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1227,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1228,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1229,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1230,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1231,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1232,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1233,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1234,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1235,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1236,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1237,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1238,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1239,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1240,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1241,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1242,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1243,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1244,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1245,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1246,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": [ "0","1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1247,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1248,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1249,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1250,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1251,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1252,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1253,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1254,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  },
+{
+    "id": 1255,
+    "question": "",
+    "description": "",
+    "maxPoint": 5,
+    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
+    "section": 12
+  }
+]

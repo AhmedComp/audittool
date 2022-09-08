@@ -4,17 +4,17 @@ import { NgForm } from '@angular/forms';
 import { Router } from '@angular/router';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  selector: 'app-home',
+  templateUrl: './home.component.html',  
 })
 
-export class AppComponent {
-  
+export class HomeComponent {
+  title = 'feedback';
 
-  constructor() {
-   
+  constructor(private router: Router, private service: AppService) {    
+    
   }
 
+  
   
 }

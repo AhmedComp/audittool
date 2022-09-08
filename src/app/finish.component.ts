@@ -4,17 +4,16 @@ import { NgForm } from '@angular/forms';
 import { Router } from '@angular/router';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  selector: 'app-finish',
+  templateUrl: './finish.component.html',  
 })
 
-export class AppComponent {
+export class FinishComponent {
   
-
-  constructor() {
-   
+  constructor(private router: Router) {    
   }
 
-  
+  back() {    
+    this.router.navigateByUrl('home');
+  }
 }

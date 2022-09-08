@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Bank"
+  },
+  {
+    "id": 2,
+    "name": "Industrial / Factory"
+  },
+  {
+    "id": 3,
+    "name": "Firm / Trading"
+  },
+{
+    "id": 4,
+    "name": "Hotels"
+  },
+{
+    "id": 5,
+    "name": "Software / Application House"
+  },
+{
+    "id": 6,
+    "name": "Data Warehouse"
+  },
+{
+    "id": 7,
+    "name": "Hospital / Midication,"
+  }
+]

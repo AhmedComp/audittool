@@ -1,1 +1,152 @@
-/* You can add global styles to this file, and also import other style files */
+.registration-flow {
+  padding: 30px 0;
+  background-color: #fff;
+  text-align: center;
+  position: relative;
+  border-bottom: 1px solid #CACACA
+}
+
+.registration-flow .registration-step {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  -webkit-transform: translateY(50%);
+  -ms-transform: translateY(50%);
+  transform: translateY(50%);
+  text-align: center;
+  overflow: hidden
+}
+
+  .registration-flow .registration-step > li {
+    display: inline-block;
+    background-color: #fff;
+    margin: 0 40px;
+    width: 40px;
+    text-align: center;
+    height: 40px;
+    line-height: 38px;
+    border: 2px solid #BEBEBE;
+    border-radius: 50%;
+    color: #CACACA;
+    position: relative
+  }
+
+    .registration-flow .registration-step > li.active {
+      color: #17a2b8;
+      border-color: #17a2b8
+    }
+
+      .registration-flow .registration-step > li.active:after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+        background-color: #17a2b8;
+        height: 2px;
+        width: 5000px;
+        z-index: -1
+      }
+
+html[dir=ltr] .registration-flow .registration-step > li.active:after {
+  right: 100%
+}
+
+html[dir=rtl] .registration-flow .registration-step > li.active:after {
+  left: 100%
+}
+
+.registration-flow .registration-step > li.done {
+  background-color: #17a2b8;
+  border-color: #17a2b8
+}
+
+  .registration-flow .registration-step > li.done:before {
+    content: "\ea10";
+    font-family: icomoon;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    line-height: inherit;
+    border-radius: 50%;
+    background-color: #17a2b8;
+    color: #fff
+  }
+
+  .registration-flow .registration-step > li.done:last-child:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    background-color: #17a2b8;
+    height: 2px;
+    width: 10000px;
+    z-index: -1
+  }
+
+html[dir=ltr] .registration-flow .registration-step > li.done:last-child:after {
+  right: -5000px
+}
+
+html[dir=rtl] .registration-flow .registration-step > li.done:last-child:after {
+  left: -5000px
+}
+
+.registration-flow .registration-step > li.failed {
+  background-color: #d81a1a;
+  border-color: #d81a1a
+}
+
+  .registration-flow .registration-step > li.failed:before {
+    content: "\ea0f";
+    font-family: icomoon;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    line-height: inherit;
+    border-radius: 50%;
+    background-color: #d81a1a;
+    color: #fff
+  }
+
+  .registration-flow .registration-step > li.failed:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    background-color: #d81a1a;
+    height: 2px;
+    width: 10000px;
+    z-index: -1
+  }
+
+html[dir=ltr] .registration-flow .registration-step > li.failed:after {
+  right: -5000px
+}
+
+
+@media (max-width:769px) {  
+  .registration-flow .registration-step > li {
+    margin: 0 5%
+  }
+}
+
+
+@font-face {
+  font-family: icomoon;
+  src: url(../src/assets/fonts/icomoon.eot?76sq4p);
+  src: url(../src/assets/fonts/icomoon.eot?76sq4p#iefix) format("embedded-opentype"),url(../src/assets/fonts/icomoon.ttf?76sq4p) format("truetype"),url(../src/assets/fonts/icomoon.woff?76sq4p) format("woff"),url(../src/assets/fonts/icomoon.svg?76sq4p#icomoon) format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block
+}
+
