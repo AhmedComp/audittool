@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "IT Rooms"
+  },
+  {
+    "id": 2,
+    "name": "Network Infrastructure"
+  },
+  {
+    "id": 3,
+    "name": "IT Operations"
+  },
+  {
+    "id": 4,
+    "name": "General Security"
+  },
+  {
+    "id": 5,
+    "name": "Vulnerabilty & Cyber Security"
+  },
+  {
+    "id": 6,
+    "name": "Network Security Assessmrnt"
+  },
+  {
+    "id": 7,
+    "name": "Data Backup"
+  },
+  {
+    "id": 8,
+    "name": "Licensing"
+  },
+  {
+    "id": 9,
+    "name": "IT Planning, Projects & Updates"
+  },
+  {
+    "id": 10,
+    "name": "Contengincy & Disaster Rrecovery Plan"
+  },
+  {
+    "id": 11,
+    "name": "SOX & Documentation"
+  },
+  {
+    "id": 12,
+    "name": "Software & Application Development"
+  },
+  {
+    "id": 13,
+    "name": "Development Plan"
+  },
+  {
+    "id": 14,
+    "name": "Testing Process & Testing Period"
+  },
+  {
+    "id": 15,
+    "name": "Development & Versions Documentation"
+  },
+  {
+    "id": 16,
+    "name": "Sales & Marketing Materials & Procures"
+  },
+  {
+    "id": 17,
+    "name": "Product USP's"
+  }
+]
