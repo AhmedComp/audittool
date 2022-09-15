@@ -49,7 +49,7 @@
   },
 {
     "id": 7,
-    "question": "There are at least two telephones lines in the Computer Room available for emergency caals / support",
+    "question": "There are at least two telephones lines in the Computer Room available for emergency calls / support",
     "description": "There are at least two telephones lines in the Computer Room available for emergency caals / support",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
@@ -1937,7 +1937,7 @@
   },
 {
     "id": 916,
-    "question": "In case of 3rd part Vendors are needed during Rollout/Updates, did you notify them with the requested role & dates?",
+    "question": "In case of 3rd party Vendors are needed during Rollout/Updates, did you notify them with the requested role & dates?",
     "description": " ",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
@@ -2241,55 +2241,55 @@
   },
 {
     "id": 1201,
-    "question": "",
-    "description": "",
+    "question": "Prior to Application development, did you find a market need for this App based on true Market research?",
+    "description": "You have to be ready to present the Summary of such Market Research",
     "maxPoint": 5,
     "answer": [ "0","1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1202,
-    "question": "",
-    "description": "",
+    "question": "If there is a competitive Application in the Market, did you perform EFAS analysis for the product & its Vendor",
+    "description": "You have to perform 'External Factor Analysis Summary' (EFAS) about the competitive product & its Vendor within your market",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1203,
-    "question": "",
-    "description": "",
+    "question": "Did your company's EFAS results exceeded 8.5 Score (85%)?",
+    "description": "You need to present this EFAS sheet",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1204,
-    "question": "",
-    "description": "",
+    "question": "Based on the previous 3 steps, did you prepare the Application ROI period & Value?",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1205,
-    "question": "",
-    "description": "",
+    "question": "Project Objectives: 1) Did you prepared your project objectives Plans including the USERS requirement / expectations of your Application",
+    "description": "The collection of these requirements should be based on the performed Market Research for the Application need within the Market",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1206,
-    "question": "",
-    "description": "",
+    "question": "Project Objectives: 2) Did you prepared your project objectives Plans including the Legal requirements for the targeted market?",
+    "description": "If the Application will handle date like Local Taxes, Social Insurances, Medical Insurance, Municipality Tax, etc.",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1207,
-    "question": "",
+    "question": "Project Objectives: 3) Did you prepared your project objectives Plans including the Business Terminology & Functionality Naming for the targeted market?",
     "description": "",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
@@ -2297,111 +2297,111 @@
   },
 {
     "id": 1208,
-    "question": "",
-    "description": "",
+    "question": "Project Development Planning: 1) Project Architectural design documentation prepared ?",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1209,
-    "question": "",
-    "description": "",
+    "question": "Project Development Planning: 2) Project time-frame documentation prepared ?",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1210,
-    "question": "",
-    "description": "",
+    "question": "Project Development Planning: 3) Project Development team assigned & Man-power cost calculation documentation prepared ?",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1211,
-    "question": "",
-    "description": "",
+    "question": "Project Development Planning: 4) based on the Project architectural design, 'API' & 'GUI' documentation prepared",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1212,
-    "question": "",
-    "description": "",
+    "question": "Project Development Planning: 5)  based on the Project architectural design, Database deign & Data-flow charts & documentation prepared ?",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1213,
-    "question": "",
-    "description": "",
+    "question": "Project Development Planning: 6)  based on the Project architectural design, the Application 'Modeling & Functionality Engineering' documentation prepared?",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1214,
-    "question": "",
-    "description": "",
+    "question": "Project Development Planning: 7)  based on the Project architectural design, the needed 3rd party integration & interfaces documentation prepared ?",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1215,
-    "question": "",
-    "description": "",
+    "question": "Project Development Planning: 8)  based on the Project architectural design, all supporting tools documentation prepared ?",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1216,
-    "question": "",
-    "description": "",
+    "question": "Project Development Planning: 9)  based on the Project architectural design, all project Risk / Obstacles prediction documentation prepared ?",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1217,
-    "question": "",
-    "description": "",
+    "question": "Project Development Planning: 10)  based on the Project architectural design, is the Art work & designs documentation prepared and approved?",
+    "description": "Screenshot Samples, Icons, Menus, etc. are approved. You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1218,
-    "question": "",
-    "description": "",
+    "question": "Project Test Plans: 1) Project testing while modules/functionality programming process documentation prepared? (coding Test)",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1219,
-    "question": "",
-    "description": "",
+    "question": "Project Test Plans: 2) Project testing for Ver 1.0 internally documentation prepared? Application functionality",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1220,
-    "question": "",
-    "description": "",
+    "question": "Project Test Plans: 3) Project testing for Ver 1.0 with customer(s) as life operation documentation prepared? Application functionality",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1221,
-    "question": "",
+    "question": "Did you arranged with Customers testing the application for 'Customer's Reviews'?",
     "description": "",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
@@ -2409,23 +2409,23 @@
   },
 {
     "id": 1222,
-    "question": "",
-    "description": "",
+    "question": "Project Test Plans: 4) Project testing final phase includes Hardware requirements test and approval process. Documentation prepared",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1223,
-    "question": "",
-    "description": "",
+    "question": "Project Test Plans: 5) Based on all testing processes & remediation, final Application acceptance & Ver 1.0 release. Documentation prepared",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1224,
-    "question": "",
+    "question": "Prepare the Application installation & implementation guide Ver 1.0",
     "description": "",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
@@ -2433,7 +2433,7 @@
   },
 {
     "id": 1225,
-    "question": "",
+    "question": "Prepare the Application User Guide  Ver 1.0",
     "description": "",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
@@ -2441,15 +2441,15 @@
   },
 {
     "id": 1226,
-    "question": "",
-    "description": "",
+    "question": "arrange for ver tracking documentation for updating Installation Guide & User's Guide",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1227,
-    "question": "",
+    "question": "All project Visibility Studies, Objectives, Plans, Design forms, Development forms, Testing process forms, etc. to be saved as both soft & hard copy for project auditing purpose",
     "description": "",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
@@ -2457,7 +2457,7 @@
   },
 {
     "id": 1228,
-    "question": "",
+    "question": "Did you arrange for a specific meetings plans for Development team to train your Technical Team on the application implementation & support",
     "description": "",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
@@ -2465,7 +2465,7 @@
   },
 {
     "id": 1229,
-    "question": "",
+    "question": "Did you arrange for a specific meetings plans for Development team to present the Application to your Marketing team  showing the strength of your application against the competition in the market",
     "description": "",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
@@ -2473,23 +2473,23 @@
   },
 {
     "id": 1230,
-    "question": "",
-    "description": "",
+    "question": "Did your marketing team prepared a list with the Application USP's",
+    "description": "'Unique Selling Propositions' which characterizes your application against competition",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1231,
-    "question": "",
-    "description": "",
+    "question": "Did you prepared a written marketing plan for the Application marketing process",
+    "description": "You have to be ready to present these documentation upon request",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
     "section": 12
   },
 {
     "id": 1232,
-    "question": "",
+    "question": "Have you arranged for Marketing Materials printing",
     "description": "",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
@@ -2497,183 +2497,7 @@
   },
 {
     "id": 1233,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1234,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1235,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1236,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1237,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1238,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1239,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1240,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1241,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1242,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1243,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1244,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1245,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1246,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": [ "0","1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1247,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1248,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1249,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1250,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1251,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1252,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1253,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1254,
-    "question": "",
-    "description": "",
-    "maxPoint": 5,
-    "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],
-    "section": 12
-  },
-{
-    "id": 1255,
-    "question": "",
+    "question": "have you prepared the Application pricelist?",
     "description": "",
     "maxPoint": 5,
     "answer": ["0", "1", "2", "3", "4", "5", "N/A" ],

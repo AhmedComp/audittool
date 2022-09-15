@@ -13,7 +13,7 @@
   },
 {
     "id": 4,
-    "name": "Hotels"
+    "name": "Hotels / Hospital"
   },
 {
     "id": 5,
@@ -26,5 +26,9 @@
 {
     "id": 7,
     "name": "Hospital / Midication,"
+  },
+{
+    "id": 8,
+    "name": "Restaurants / Retail,"
   }
 ]
