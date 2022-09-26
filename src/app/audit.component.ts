@@ -4,6 +4,7 @@ import { NgForm } from '@angular/forms';
 import { Router } from '@angular/router';
 import { strictEqual } from 'assert';
 import { environment } from '../environments/environment'
+import { Local } from 'protractor/built/driverProviders';
 @Component({
   selector: 'app-audit',
   templateUrl: './audit.component.html',
@@ -44,7 +45,7 @@ export class AuditComponent implements OnInit {
             for (var j = 0; j < qes.length; j++) {
               this.mySections[i].questions.push(qes[j]);
             }
-          }
+          }          
           this.load = true;
         });
       });
@@ -92,4 +93,10 @@ export class AuditComponent implements OnInit {
     this.underdeveloped=true;
   }
 
+  auditPrint() {    
+    localStorage.setItem("AuditData", JSON.stringify(this.mySections));
+    localStorage.setItem("auditDate", new Date().toLocaleDateString());
+    localStorage.setItem("auditTime", new Date().getHours().toString() + ":" + new Date().getMinutes().toString());
+    this.router.navigateByUrl('auditPrint');
+  }
 }

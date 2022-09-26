@@ -14,10 +14,11 @@ import { AuditComponent } from './audit.component';
 import { AccordionModule } from 'primeng/accordion';
 import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
 import { TooltipModule } from 'primeng/tooltip';
+import { AuditPrintComponent } from './auditPrint.component';
 
 @NgModule({
   declarations: [
-    AppComponent, FinishComponent, HomeComponent, RegisterComponent, LoginComponent, AuditComponent
+    AppComponent, FinishComponent, HomeComponent, RegisterComponent, LoginComponent, AuditComponent, AuditPrintComponent
   ],
   imports: [
     BrowserModule, FormsModule, RadioButtonModule, BrowserAnimationsModule,
@@ -26,4 +27,5 @@ import { TooltipModule } from 'primeng/tooltip';
   providers: [AppService],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }

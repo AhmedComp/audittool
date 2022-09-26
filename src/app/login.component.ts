@@ -20,8 +20,10 @@ export class LoginComponent {
 
   login() {
     this.showLoginFail = false;
-    if (this.userName == "ehab" && this.password == "000")
+    if ((this.userName == "ehab" && this.password == "000") || (this.userName == "bassem" && this.password == "000")) {
+      localStorage.setItem("username", this.userName);
       this.router.navigateByUrl('audit');
+    }
     else
       this.showLoginFail = true;
   }

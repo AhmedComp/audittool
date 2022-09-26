@@ -5,6 +5,7 @@ import { HomeComponent } from './home.component';
 import { RegisterComponent } from './register.component';
 import { LoginComponent } from './login.component';
 import { AuditComponent } from './audit.component';
+import { AuditPrintComponent } from './auditPrint.component';
 
 const routes: Routes = [
   {
@@ -27,6 +28,10 @@ const routes: Routes = [
   {
     path: 'audit',
     component: AuditComponent,
+  },
+  {
+    path: 'auditPrint',
+    component: AuditPrintComponent,
   },
   {
     path: 'finish',
